@@ -11,6 +11,8 @@ Name:Chen Liu
 
 University:CSUST
 
+Email:1076854084@qq.com
+
 ### Project 1: Linear Regression
 In statistics, linear regression is a linear approach for modelling the relationship between a scalar dependent variable y and one or more explanatory variables (or independent variables) denoted X. The case of one explanatory variable is called simple linear regression. For more than one explanatory variable, the process is called multiple linear regression. 
 
